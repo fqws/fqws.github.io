@@ -1,9 +1,10 @@
 # Knowledge Matrix
 
-- CS : [Code](https://github.com/fqws/knowledge-matrix-cs/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-cs/issues)
+- Computer Science : [Code](https://github.com/fqws/knowledge-matrix-cs/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-cs/issues)
 - Web : [Code](https://github.com/fqws/knowledge-matrix-web/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-web/issues)
-- Web : [Code](https://github.com/fqws/knowledge-matrix-algorithm/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-algorithm/issues)
+- Algorithm : [Code](https://github.com/fqws/knowledge-matrix-algorithm/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-algorithm/issues)
 - JavaScript : [Code](https://github.com/fqws/knowledge-matrix-javascript/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-javascript/issues)
+- CSS : [Code](https://github.com/fqws/knowledge-matrix-css/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-css/issues)
 - Node.js : [Code](https://github.com/fqws/knowledge-matrix-nodejs/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-nodejs/issues)
 - Java : [Code](https://github.com/fqws/knowledge-matrix-java/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-java/issues)
 - C : [Code](https://github.com/fqws/knowledge-matrix-c/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-c/issues)
