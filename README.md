@@ -1,1 +1,16 @@
-# fqws.github.io
+# Knowledge Matrix
+
+- CS : [Code](https://github.com/fqws/knowledge-matrix-cs/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-cs/issues)
+- Web : [Code](https://github.com/fqws/knowledge-matrix-web/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-web/issues)
+- Web : [Code](https://github.com/fqws/knowledge-matrix-algorithm/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-algorithm/issues)
+- JavaScript : [Code](https://github.com/fqws/knowledge-matrix-javascript/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-javascript/issues)
+- Node.js : [Code](https://github.com/fqws/knowledge-matrix-nodejs/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-nodejs/issues)
+- Java : [Code](https://github.com/fqws/knowledge-matrix-java/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-java/issues)
+- C : [Code](https://github.com/fqws/knowledge-matrix-c/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-c/issues)
+- C++ : [Code](https://github.com/fqws/knowledge-matrix-cpp/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-cpp/issues)
+- Python : [Code](https://github.com/fqws/knowledge-matrix-python/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-python/issues)
+- Go : [Code](https://github.com/fqws/knowledge-matrix-go/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-go/issues)
+- Database : [Code](https://github.com/fqws/knowledge-matrix-database/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-database/issues)
+- Linux : [Code](https://github.com/fqws/knowledge-matrix-linux/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-linux/issues)
+- Math : [Code](https://github.com/fqws/knowledge-matrix-math/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-math/issues)
+- English : [Code](https://github.com/fqws/knowledge-matrix-english/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-english/issues)
