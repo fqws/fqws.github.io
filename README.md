@@ -3,6 +3,7 @@
 ## A
 
 - Algorithm : [Code](https://github.com/fqws/knowledge-matrix-algorithm/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-algorithm/issues)
+- AI : [Code](https://github.com/fqws/knowledge-matrix-ai/blob/main/README.md) I [Issues](https://github.com/fqws/knowledge-matrix-ai/issues)
 
 ---
 
